@@ -1,1 +1,2 @@
-Hola mundo de las db relacionales !!
+Hola mundo de las db relacionales 
+Hoy estamos en IS haciendo un taller !!
