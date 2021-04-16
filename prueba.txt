@@ -1,2 +1,3 @@
 Hola mundo de las db relacionales 
 Hoy estamos en IS haciendo un taller !!
+Hoy estoy haciendo unas pruebas con el Editor Code de Microsoft !
